@@ -1,0 +1,1 @@
+Compilation of vital information and knowledge that could be lost if ~bad things~ were to happen! In the spirit of zombie-survival books, this aims to be a somewhat non-serious, yes serious project.
