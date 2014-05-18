@@ -1,0 +1,1 @@
+Any raw images used should be contained here.
